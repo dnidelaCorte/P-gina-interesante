@@ -1,0 +1,16 @@
+#meme {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#imatge {
+    height: 400px;
+    width: 400px;
+    border: solid black;
+    border-width: 5px
+}
+
+.texto {
+    font-family: "Oswald";
+    text-transform: uppercase;
+}
